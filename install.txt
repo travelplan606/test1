@@ -1,0 +1,4 @@
+install DevOps toolchains
+install github scm tool
+install jira project tracking tool
+install ansible config tool
